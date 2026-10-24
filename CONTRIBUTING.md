@@ -7,7 +7,8 @@ Use the category guides in the root [README](README.md) to find the right place.
 - Check whether it is already present before adding it.
 - Record the canonical repository URL, current public star count and check date, declared license, and why the project exists.
 - Record mixed, custom, or missing license information precisely.
-- Add the repository to the project-wide ranked list and its topic note. Keep those records consistent.
+- Add the repository to the project-wide ranked list, the relevant category’s `GitHub Repositories.md` table, and its topic note. Keep the canonical link, stars and check date, license, and purpose consistent in each place.
+- If creating a new category, add its repository table and link it from the category guide.
 
 ## For a website, course, book, or other resource
 

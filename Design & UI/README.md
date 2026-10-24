@@ -4,6 +4,7 @@ Design inspiration, UI systems, responsive and mobile-friendly application desig
 
 ## Browse this category
 
+- [GitHub repositories for this category](GitHub%20Repositories.md)
 - [Designer Websites and Tools](Designer%20Websites%20and%20Tools.md)
 - [Responsive and Mobile-Friendly Web App Design](Responsive%20and%20Mobile-Friendly%20Web%20App%20Design.md)
 

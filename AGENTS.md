@@ -9,7 +9,8 @@ This repository is a curated library of learning material, reference links, prac
 3. Check GitHub license metadata and license files. Record the declared license. Explain mixed or custom terms; write “unspecified” when none is declared.
 4. Add or update the project-wide [GitHub Repositories Ranked by Stars](GitHub%20Repositories%20Ranked%20by%20Stars.md) list, sorted by the most recently recorded star counts. Keep the check-date note accurate.
 5. Add a concise “why it exists” description based on the repository description or README. Do not invent a purpose.
-6. Add the repository to its relevant topic note and keep its stars, license, and purpose consistent with the master ranking.
+6. Add the repository to the relevant category folder’s `GitHub Repositories.md` table and topic note. Keep its canonical link, stars and check date, license, and purpose consistent with the master ranking.
+7. If creating a new category, create its repository table and link it from the category guide.
 
 ## Adding other resources
 

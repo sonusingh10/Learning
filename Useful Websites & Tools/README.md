@@ -4,6 +4,7 @@ General-purpose sites for research, productivity, discovery, and everyday tasks.
 
 ## Browse this category
 
+- [GitHub repositories for this category](GitHub%20Repositories.md)
 - [36 Useful Websites](36%20Useful%20Websites.md)
 - [50 Interesting Websites](50%20Interesting%20Websites.md)
 - [50 Websites You’ll Wish You Knew Sooner](50%20Websites%20You%E2%80%99ll%20Wish%20You%20Knew%20Sooner.md)
