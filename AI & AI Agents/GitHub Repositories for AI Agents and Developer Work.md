@@ -25,7 +25,7 @@ Repositories from the supplied lists, grouped by what they help with. New entrie
 |---|---:|---|---|
 | [mattpocock/skills](https://github.com/mattpocock/skills) | 284,328 | MIT License | Provide software-engineering skills for AI agents, drawn from Matt Pocock’s `.agents` directory. |
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 107.7k (18 Oct 2026) | MIT License | Provide production-grade engineering workflows for AI coding agents, including specifications, test-driven development, browser testing, security review, and delivery. |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 57.0k (18 Oct 2026) | MIT License | Provide editorial diagram guidance and 44 reusable diagram types for coding agents. |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 60.6k (checked 24 Oct 2026) | MIT License | Provide editorial diagram guidance, 45 diagram types, and self-contained HTML and SVG outputs for coding agents. |
 | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 15.0k (18 Oct 2026) | MIT License | Create interactive isometric illustrations of machines and complex systems through an agent skill. |
 | [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) | 5,681 | MIT License | Help AI coding assistants write modern SwiftUI, including guidance on APIs, design, performance, and accessibility. The skill is called SwiftUI Pro. |
 

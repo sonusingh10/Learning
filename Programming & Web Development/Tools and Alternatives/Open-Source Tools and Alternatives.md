@@ -20,7 +20,7 @@ The supplied post is titled “10 GitHub repos that seem ‘illegal’ but are p
 
 5. [plausible/analytics](https://github.com/plausible/analytics) — 29,355 stars. Described as an open-source alternative to Google Analytics; the post says self-hosting costs $0 and compares it with company plans costing thousands per year.
 6. [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) — 77,217 stars. Described as an open-source alternative to Notion; the post compares it with a $20-per-user Notion plan and claims self-hosting supports unlimited users.
-7. [penpot/penpot](https://github.com/penpot/penpot) — 60,872 stars. Described as an open-source alternative to Figma; the post compares it with Figma at $16 per editor and says Penpot can be self-hosted for free.
+7. [penpot/penpot](https://github.com/penpot/penpot) — 61.6k (checked 24 Oct 2026) stars. Described as an open-source alternative to Figma; the post compares it with Figma at $16 per editor and says Penpot can be self-hosted for free.
 8. [n8n-io/n8n](https://github.com/n8n-io/n8n) — 206,869 stars. Described as an open-source automation tool; the post says Zapier Pro can cost hundreds per month and describes n8n as allowing unlimited automations.
 9. [calcom/cal.diy](https://github.com/calcom/cal.diy) — 48,932 stars. Described as an open-source alternative to Calendly; the post compares it with Calendly Teams at $16 per user and says Cal.com is free for personal use. (The repository now redirects from `cal.com` to `cal.diy`.)
 10. [bitwarden/server](https://github.com/bitwarden/server) — 20,252 stars. Described as an open-source alternative to 1Password, with a “very complete” free version.

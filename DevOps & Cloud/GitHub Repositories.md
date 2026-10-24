@@ -6,4 +6,4 @@ Repositories linked from resources in **DevOps & Cloud**. Entries are sorted by 
 
 | Master rank | Repository | Stars | License type | Why it exists |
 |---:|---|---:|---|---|
-| 178 | [DhanushNehru/Ultimate-DevOps-Resources](https://github.com/DhanushNehru/Ultimate-DevOps-Resources) | 216 (check date not recorded) | GNU General Public License v3.0 (GPL-3.0) | Collect learning resources and topics for a DevOps learning journey. |
+| 182 | [DhanushNehru/Ultimate-DevOps-Resources](https://github.com/DhanushNehru/Ultimate-DevOps-Resources) | 216 (check date not recorded) | GNU General Public License v3.0 (GPL-3.0) | Collect learning resources and topics for a DevOps learning journey. |

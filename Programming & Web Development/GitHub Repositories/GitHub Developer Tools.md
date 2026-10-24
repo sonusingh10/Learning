@@ -12,7 +12,7 @@ For additional repositories and agent skills, see [GitHub Repositories for AI Ag
 - [tester-army/e2e](https://github.com/tester-army/e2e) — approximately 8.5k stars · Apache License 2.0. End-to-end testing framework for web and mobile apps, including agent-driven natural-language actions.
 - [reflex-dev/xy](https://github.com/reflex-dev/xy) — 1,874 stars · Apache License 2.0. Fast, interactive, customizable Python charts for web, notebooks, and static exports.
 
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) — 57.0k stars (18 Oct 2026) · MIT License. Supplies editorial guidance and 44 reusable diagram types for coding agents.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) — 60.6k stars (checked 24 Oct 2026) · MIT License. Supplies editorial guidance and 45 diagram types for coding agents.
 - [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) — 15.0k stars (18 Oct 2026) · MIT License. An agent skill for detailed, interactive isometric illustrations of machines and complex systems.
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) — 12.7k stars (18 Oct 2026) · Elastic License 2.0 (ELv2), with restrictions on hosted or managed services ([license](https://github.com/NangoHQ/nango/blob/master/LICENSE)). Builds product and AI-agent integrations with APIs, handling authentication, execution, scaling, and observability.
 

@@ -4,6 +4,8 @@ AI tools, local models, agent skills, MCP workflows, memory, search, evaluation,
 
 ## Browse this category
 
+- [GitHub repositories for this category](GitHub%20Repositories.md)
+
 - [30 AI Tools That Save Time](30%20AI%20Tools%20That%20Save%20Time.md)
 - [30 AI Websites for Creative and Productivity Workflows](30%20AI%20Websites%20for%20Creative%20and%20Productivity%20Workflows.md)
 - [40 AI Tools for Creating, Writing, Marketing, and Growth](40%20AI%20Tools%20for%20Creating%2C%20Writing%2C%20Marketing%2C%20and%20Growth.md)

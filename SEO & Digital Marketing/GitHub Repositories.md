@@ -6,5 +6,5 @@ Repositories linked from resources in **SEO & Digital Marketing**. Entries are s
 
 | Master rank | Repository | Stars | License type | Why it exists |
 |---:|---|---:|---|---|
-| 115 | [every-app/open-seo](https://github.com/every-app/open-seo) | 24,538 (checked 23 Oct 2026) | MIT License ([license](https://github.com/every-app/open-seo/blob/main/LICENSE)) | Provide an open-source alternative to Semrush and Ahrefs, with SEO research tools and agent/MCP workflows. |
-| 123 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | 20,039 (checked 24 Oct 2026) | MIT License | Provide a universal Claude Code SEO skill with sub-skills and sub-agents for technical, local, content, e-commerce, and international SEO workflows. |
+| 116 | [every-app/open-seo](https://github.com/every-app/open-seo) | 24,538 (checked 23 Oct 2026) | MIT License ([license](https://github.com/every-app/open-seo/blob/main/LICENSE)) | Provide an open-source alternative to Semrush and Ahrefs, with SEO research tools and agent/MCP workflows. |
+| 124 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | 20,039 (checked 24 Oct 2026) | MIT License | Provide a universal Claude Code SEO skill with sub-skills and sub-agents for technical, local, content, e-commerce, and international SEO workflows. |

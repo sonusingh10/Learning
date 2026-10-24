@@ -69,7 +69,7 @@ A categorized record of the supplied list. Repository descriptions and license d
 The following items were added from a later user-supplied list; current stars are also recorded in the project-wide ranking.
 
 - [LibreChat](https://github.com/LibreChat-AI/LibreChat) — 45.9k stars (checked 18 Oct 2026) · MIT License. A self-hosted chat interface for multiple AI providers and models.
-- [HyperFrames](https://github.com/heygen-com/hyperframes) — 65.9k stars (checked 18 Oct 2026) · Apache License 2.0. Turns HTML, CSS, media, and animations into video, with coding-agent tools and skills.
+- [HyperFrames](https://github.com/heygen-com/hyperframes) — 71,175 stars (checked 24 Oct 2026) · Apache License 2.0. Turns HTML, CSS, media, and animations into video, with coding-agent tools and skills.
 - [Fincept Terminal](https://github.com/Fincept-Corporation/FinceptTerminal) — 32.7k stars (checked 18 Oct 2026) · GNU Affero General Public License v3.0 or later (AGPL-3.0-or-later); repository docs say the earlier dual-license terms were withdrawn ([license](https://github.com/Fincept-Corporation/FinceptTerminal/blob/main/LICENSE), [current licensing note](https://github.com/Fincept-Corporation/FinceptTerminal/blob/main/docs/COMMERCIAL_LICENSE.md)). Finance analytics and investment research app.
 - [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) — 132.7k stars (checked 18 Oct 2026) · MIT License. Generates high-definition short videos from topics or keywords by automating scripting, media matching, subtitles, music, and video assembly.
 - [Agentic Inbox](https://github.com/cloudflare/agentic-inbox) — 8.4k stars (checked 18 Oct 2026) · Apache License 2.0. Self-hosted email client with an AI agent on Cloudflare Workers.

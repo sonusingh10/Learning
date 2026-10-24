@@ -6,9 +6,9 @@ The supplied post groups these projects for agent-driven video creation, explain
 
 | Repository | Stars | License type | Why it exists |
 |---|---:|---|---|
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 65.9k (18 Oct 2026) | Apache License 2.0 | Turn HTML, CSS, media, and animations into video, with tools and skills for coding agents. |
-| [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 63,049 | Custom Remotion License; individuals, nonprofits, and companies of up to three employees qualify for the free license, while larger for-profit organizations require a company license ([terms](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md)) | Create videos programmatically with React components. |
-| [remotion-dev/skills](https://github.com/remotion-dev/skills) | 5,005 | Unspecified; no license declared in GitHub metadata | Give AI coding agents guidance for creating and rendering videos with Remotion. |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 71,175 (checked 24 Oct 2026) | Apache License 2.0 | Turn HTML, CSS, media, and animations into video, with tools and skills for coding agents. |
+| [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 66.9k (checked 24 Oct 2026) | Custom Remotion License; individuals, nonprofits, and companies of up to three employees qualify for the free license, while larger for-profit organizations require a company license ([terms](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md)) | Create videos programmatically with React components. |
+| [remotion-dev/skills](https://github.com/remotion-dev/skills) | 5.6k (checked 24 Oct 2026) | Unspecified; no license declared in GitHub metadata | Provide official Remotion agent skills for working in Remotion projects, including guidance for creating and rendering videos. |
 | [digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) | 2,198 | MIT License | Provide an AI-native video production toolkit for Claude Code. |
 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 132.7k (18 Oct 2026) | MIT License | Generate high-definition short videos from a topic or keyword by automating scripting, media matching, subtitles, music, and video assembly. |
 

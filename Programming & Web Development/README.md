@@ -4,6 +4,8 @@ Programming books, developer tools, practice resources, open-source projects, an
 
 ## Browse this category
 
+- [GitHub repositories for this category](GitHub%20Repositories.md)
+
 - [Free Programming Books Repository](Books/Free%20Programming%20Books%20Repository.md)
 - [Free Python Books and Learning Resources](Books/Free%20Python%20Books%20and%20Learning%20Resources.md)
 - [GoalKicker Programming Books](Books/GoalKicker%20Programming%20Books.md)

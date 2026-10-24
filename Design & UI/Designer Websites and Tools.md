@@ -171,7 +171,7 @@ The post describes these sites as resources for inspiration, branding, UI, motio
 
 Counts and licenses are recorded with their check dates where available; new and refreshed entries were checked on **24 October 2026**; older entries retain their previous check dates.
 - [benjitaylor/agentation](https://github.com/benjitaylor/agentation) — 5,039 stars (checked 24 Oct 2026) · PolyForm Shield License 1.0.0; custom, non-OSI license with restrictions including competing products/services ([license](https://github.com/benjitaylor/agentation/blob/main/LICENSE)). Visual feedback tool for annotating page elements and sending structured feedback to AI coding agents.
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — 139,534 stars (checked 24 Oct 2026) · MIT License. AI design intelligence for professional UI/UX across multiple platforms.
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — 139.8k stars (checked 24 Oct 2026) · MIT License. AI design intelligence for professional UI/UX across multiple platforms.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) — 126,389 stars (checked 24 Oct 2026) · MIT License. Composable, accessible components with thoughtful defaults that developers can customize into their own component library.
 - [emilkowalski/skills](https://github.com/emilkowalski/skills) — 49,139 stars (checked 24 Oct 2026) · MIT License. Skills for designers and engineers.
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) — 32,914 stars (checked 24 Oct 2026) · MIT License (stated in the README; GitHub metadata and repository files contain no separate license declaration or license file). Vercel’s official agent-skill collection; includes [web-design-guidelines](https://github.com/vercel-labs/agent-skills/blob/main/skills/web-design-guidelines/SKILL.md) for reviewing interface implementations.
@@ -179,7 +179,7 @@ Counts and licenses are recorded with their check dates where available; new and
 
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) — 98.4k stars (18 Oct 2026) · MIT License. A skill that gives AI coding agents design guidance intended to reduce generic frontend output.
 - [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) — 15.0k stars (18 Oct 2026) · MIT License. Agent skill for interactive isometric illustrations of machines and complex systems.
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) — 79,641 stars (11 Oct 2026) · Apache License 2.0. Design guidance, commands, and checks for AI-assisted frontend work.
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) — 85.9k stars (checked 24 Oct 2026) · Apache License 2.0. Design guidance, commands, and checks for AI-assisted frontend work.
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) — 22,540 stars · MIT License. Copy-and-paste animated UI components and effects for design engineers.
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) — 48,891 stars (11 Oct 2026) · MIT License + Commons Clause, which restricts selling, sublicensing, or redistributing the components themselves ([license](https://github.com/DavidHDev/react-bits/blob/main/LICENSE.md)). Animated, interactive React and Next.js components.
 - [panel-ui/PanelUI](https://github.com/panel-ui/PanelUI) — 793 stars (14 Oct 2026) · MIT License. High-performance React Native and React components.

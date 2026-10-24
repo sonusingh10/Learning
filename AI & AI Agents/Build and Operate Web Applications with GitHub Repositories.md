@@ -57,7 +57,7 @@ The following repositories informed the portfolio specification, animated compon
 |---|---:|---|---|
 | [github/spec-kit](https://github.com/github/spec-kit) | 140,786 | MIT License | Give AI coding agents structured processes and reusable templates for specification-driven development. |
 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 98.4k (18 Oct 2026) | MIT License | Give coding agents art direction, reference images, and browser checks to improve generated interfaces. |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 79,641 | Apache License 2.0 | Provide design guidance, commands, and checks for AI-assisted frontend work. |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 85.9k (checked 24 Oct 2026) | Apache License 2.0 | Give AI coding agents design guidance, commands, and checks for frontend work. |
 | [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) | 48,891 | MIT License + Commons Clause; restricts selling, sublicensing, or redistributing the components themselves ([license](https://github.com/DavidHDev/react-bits/blob/main/LICENSE.md)) | Provide animated, interactive, customizable React and Next.js components for websites and apps. |
 
 For the complete project-wide ranking, see [GitHub Repositories Ranked by Stars](../GitHub%20Repositories%20Ranked%20by%20Stars.md).
