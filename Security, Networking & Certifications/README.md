@@ -2,6 +2,10 @@
 
 Study and practice resources for cybersecurity, networking, and professional certifications.
 
+## Featured resource
+
+- [FreeDomain: domain registration and DNS learning](Study%20Resource%20Links.md#dns-and-domain-learning) — a practical guide to domain setup and deployment.
+
 ## Browse this category
 
 - [GitHub repositories for this category](GitHub%20Repositories.md)
