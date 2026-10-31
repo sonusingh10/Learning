@@ -52,5 +52,5 @@ A categorized list of SEO, website diagnostics, research, and local-search tools
 
 ## Open-source SEO repositories
 
-- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) — 20,039 stars (checked 24 Oct 2026) · MIT License. Provide a universal Claude Code SEO skill with sub-skills and sub-agents for technical, local, content, e-commerce, and international SEO workflows.
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) — 24,653 stars (checked 31 Oct 2026) · MIT License. Provide a universal Claude Code SEO skill with sub-skills and sub-agents for technical, local, content, e-commerce, and international SEO workflows.
 - [every-app/open-seo](https://github.com/every-app/open-seo) — 24,538 stars (checked 23 Oct 2026) · MIT License ([license](https://github.com/every-app/open-seo/blob/main/LICENSE)). Open-source alternative to Semrush and Ahrefs, with SEO research tools and agent/MCP workflows.

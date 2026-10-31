@@ -1,11 +1,11 @@
 # AI and MCP Workflow Repositories
 
-Repositories from the supplied list for connecting AI assistants to work tools, automation, and publishing. Sorted by GitHub stars. New and refreshed counts checked on **24 October 2026**; older entries retain their earlier counts. Star totals can change.
+Repositories from the supplied list for connecting AI assistants to work tools, automation, and publishing. Sorted by GitHub stars. New and refreshed counts checked on **31 October 2026**; older entries retain their earlier counts. Star totals can change.
 
 | Rank | Repository | Stars | License type | Why it exists |
 |---:|---|---:|---|---|
 | 1 | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 37,181 | GNU Affero General Public License v3.0 (AGPL-3.0) | Schedule and manage social-media publishing, including agentic workflows. |
-| 2 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | 20,039 (24 Oct 2026) | MIT License | Provide a universal Claude Code SEO skill with sub-skills and sub-agents for technical, local, content, e-commerce, and international SEO workflows. |
+| 2 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | 24,653 (31 Oct 2026) | MIT License | Provide a universal Claude Code SEO skill with sub-skills and sub-agents for technical, local, content, e-commerce, and international SEO workflows. |
 | 3 | [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) | 16,541 | Apache License 2.0 | Build and deploy durable AI agents, background jobs, and workflows. |
 | 4 | [openclaw/gogcli](https://github.com/openclaw/gogcli) | 8,501 | MIT License | Manage Google Workspace services from the terminal. |
 | 5 | [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) | 4,238 | MIT License | Let AI assistants create and edit Excel workbooks, charts, PivotTables, slicers, and formulas. |

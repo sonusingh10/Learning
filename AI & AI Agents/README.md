@@ -13,6 +13,7 @@ AI tools, local models, agent skills, MCP workflows, memory, search, evaluation,
 - [AI Agent Repositories Ranked by Stars](AI%20Agent%20Repositories%20Ranked%20by%20Stars.md)
 - [AI Image and Voice Models](AI%20Image%20and%20Voice%20Models.md)
 - [AI Model Evaluation Sites](AI%20Model%20Evaluation%20Sites.md)
+- [DeepTutor: Personalized AI Tutoring](DeepTutor%20Personalized%20AI%20Tutor.md)
 - [AI and MCP Workflow Repositories](AI%20and%20MCP%20Workflow%20Repositories.md)
 - [Build Local AI Apps](Build%20Local%20AI%20Apps.md)
 - [Build and Operate Web Applications with GitHub Repositories](Build%20and%20Operate%20Web%20Applications%20with%20GitHub%20Repositories.md)

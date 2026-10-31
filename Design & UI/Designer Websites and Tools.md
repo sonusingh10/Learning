@@ -16,6 +16,10 @@ A categorized collection of website inspiration, creative tools, and icon librar
 10. [Mobbin](https://mobbin.com) — UI/UX inspiration.
 11. [Before.Click](https://before.click) — App Store screenshot inspiration.
 
+## Interactive design and code examples
+
+- [MengTo/sketchbook](https://github.com/MengTo/sketchbook) — A page-flipping sketchbook of Singapore built as a single static HTML file, with draggable page turns and a magnifier interaction. GitHub showed 692 stars on 31 October 2026; no license is declared in GitHub metadata or repository files.
+
 ## Everyday and mini design tools
 
 - [Toolfolio](https://toolfolio.com) — Everyday tools.
